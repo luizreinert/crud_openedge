@@ -1,4 +1,4 @@
-# 📚 CRUD em OpenEdge ABL
+# 📚 CRUD em PROGRESS OpenEdge ABL
 
 Este projeto é um CRUD desenvolvido em **OpenEdge ABL (Advanced Business Language)**, utilizando **temp-tables** e manipulação de arquivos **.csv** como base de dados fictícia. O sistema permite cadastrar, consultar, atualizar, excluir e gerar relatórios sobre registros de vendedores, produtos, empresas e vendas.
 
